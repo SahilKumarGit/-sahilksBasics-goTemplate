@@ -1,5 +1,5 @@
 {
-  "name": "@sahilksbasics/getemplate",
+  "name": "sk-getemplate",
   "version": "1.0.0",
   "description": "Hello",
   "main": "lib/index.js",
