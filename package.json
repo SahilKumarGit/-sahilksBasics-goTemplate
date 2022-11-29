@@ -1,5 +1,5 @@
 {
-  "name": "-sahilksbasics-gotemplate",
+  "name": "@sahilksbasics/getemplate",
   "version": "1.0.0",
   "description": "Hello",
   "main": "lib/index.js",
